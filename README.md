@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=coolgoagle&color=green)
+![Profile views](https://gpvc.arturio.dev/coolgoagle)
 
 <!--
 **coolgoagle/coolgoagle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
