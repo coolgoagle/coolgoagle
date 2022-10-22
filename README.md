@@ -3,9 +3,6 @@ Languages I have some knowledge in:\
   English\
   Lua\
   NodeJS\
-  Python\
-
-
-###
+  Python
 
 ![](https://gpvc.arturio.dev/coolgoagle)
