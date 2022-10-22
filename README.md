@@ -1,4 +1,4 @@
-### Currently Learning Many Languages
+### Currently Learning Many "Coding" Languages
 Languages I have some knowledge in:\
   English\
   Lua\
