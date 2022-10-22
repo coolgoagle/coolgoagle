@@ -3,6 +3,9 @@ Languages I have some knowledge in:\
   English\
   Lua\
   NodeJS\
-  Python
+  Python\
+  Batch\
+  VBScript\
+  Shell
 
 ![](https://gpvc.arturio.dev/coolgoagle)
