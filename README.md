@@ -9,3 +9,4 @@ Languages I have some knowledge in:\
   Shell
 
 ![](https://gpvc.arturio.dev/coolgoagle)
+![](https://hit.yhype.me/github/profile?user_id=102777764)
