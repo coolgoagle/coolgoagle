@@ -4,6 +4,9 @@ Languages I have some knowledge in:\
   C# (NEW)\
   Lua\
   NodeJS\
+  HTML\
+  CSS\
+  Javascript\
   Python\
   Batch\
   VBScript\
