@@ -12,4 +12,5 @@ Languages I have some knowledge in:\
   VBScript\
   Shell
 
+![](https://github-readme-stats.vercel.app/api?username=coolgoagle&show_icons=true&theme=radical)
 ![](https://gpvc.arturio.dev/coolgoagle)
