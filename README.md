@@ -13,7 +13,8 @@ Languages I have some knowledge in:\
   Shell
 
 #### Viewcounter
-![](https://profile-counter.glitch.me/coolgoagle/count.svg)\
+[NOT IN USE ATM]: ![](https://profile-counter.glitch.me/coolgoagle/count.svg)\
+[![Hits](https://hits.sh/github.com/coolgoagle.svg?style=for-the-badge&label=Profile%20Views%3A)](https://hits.sh/github.com/coolgoagle/)\
 <br>
 ![](https://github-readme-stats.vercel.app/api?username=coolgoagle&show_icons=true&theme=radical)
 ![](https://gpvc.arturio.dev/coolgoagle)
