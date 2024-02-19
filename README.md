@@ -1,7 +1,8 @@
 ### Currently Learning Many "Coding" Languages
 Languages I have some knowledge in:\
   English\
-  C# (NEW)\
+  C#\
+  Rust\
   Lua\
   NodeJS\
   HTML\
@@ -9,6 +10,7 @@ Languages I have some knowledge in:\
   Javascript\
   Python\
   Batch\
+  Bash\
   VBScript\
   Shell
 
